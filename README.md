@@ -12,7 +12,7 @@ O script é composto por diversas funções que utilizam APIs públicas e privad
 ## Instalação 🔧✅
 Para utilizar o "Consultas_BLT", basta colocar os comandos abaixo para executar o script no terminal. O usuário deve inserir os dados que deseja consultar e o script irá retornar as informações relevantes. 📝:
 ```sh
-https://github.com/FoxsBlintersOFC07/Cnslt.git
+git https://github.com/FoxsBlintersOFC07/Cnslt.git
 cd Cnslt
 python menu.py
 ```
